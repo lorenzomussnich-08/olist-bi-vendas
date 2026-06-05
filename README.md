@@ -52,7 +52,8 @@ DIVIDE([Receita Total] - [Receita Mes Anterior], [Receita Mes Anterior])
 
 ## Dashboard
 
-![Olist BI dashboard in Power BI](reports/figures/dashboard.png)
+<img width="1931" height="1174" alt="dashboard" src="https://github.com/user-attachments/assets/dde0f5e0-8a50-4d58-b2ca-bf0e2a2adf8c" />
+
 
 ## Boas práticas aplicadas
 
