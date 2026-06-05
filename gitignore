@@ -1,0 +1,11 @@
+# Banco gerado pelo ETL (reconstruivel)
+data/olist.db
+
+# Dados brutos grandes (baixados via script)
+data/raw/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
