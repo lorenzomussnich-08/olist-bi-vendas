@@ -50,6 +50,10 @@ DIVIDE([Receita Total] - [Receita Mes Anterior], [Receita Mes Anterior])
 * Gráfico de colunas: nota média por faixa de atraso, o insight central do projeto.
 * Segmentadores: ano, estado e categoria.
 
+## Dashboard
+
+![Olist BI dashboard in Power BI](reports/figures/dashboard.png)
+
 ## Boas práticas aplicadas
 
 * Métricas como medidas DAX, nunca colunas calculadas desnecessárias.
